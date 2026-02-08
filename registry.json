@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "claude-dashboard",
+      "name": "Claude Dashboard",
+      "description": "Claude API usage dashboard for Hecaton",
+      "author": "cr545l",
+      "latest_version": "1.0.0",
+      "runtime": "node",
+      "download_url": "https://github.com/cr545l/hecaton-plugin-claude-dashboard/archive/refs/tags/v1.0.0.zip",
+      "tags": ["claude", "dashboard", "api"]
+    }
+  ]
+}
