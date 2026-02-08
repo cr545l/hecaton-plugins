@@ -6,10 +6,20 @@
       "name": "Claude Dashboard",
       "description": "Claude API usage dashboard for Hecaton",
       "author": "cr545l",
-      "latest_version": "1.0.0",
+      "latest_version": "1.0.1",
       "runtime": "node",
       "download_url": "https://github.com/cr545l/hecaton-plugin-claude-dashboard/archive/refs/tags/v1.0.0.zip",
       "tags": ["claude", "dashboard", "api"]
+    },
+    {
+      "id": "codex-dashboard",
+      "name": "Codex Dashboard",
+      "description": "Codex API usage dashboard for Hecaton",
+      "author": "cr545l",
+      "latest_version": "1.0.0",
+      "runtime": "node",
+      "download_url": "https://github.com/cr545l/hecaton-plugin-codex-dashboard/archive/refs/tags/v1.0.0.zip",
+      "tags": ["codex", "dashboard", "api"]
     }
   ]
 }
