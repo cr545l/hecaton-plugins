@@ -8,7 +8,7 @@
       "author": "cr545l",
       "latest_version": "1.0.1",
       "runtime": "node",
-      "download_url": "https://github.com/cr545l/hecaton-plugin-claude-dashboard/archive/refs/tags/v1.0.0.zip",
+      "repository_url": "https://github.com/cr545l/hecaton-plugin-claude-dashboard",
       "tags": ["claude", "dashboard", "api"]
     },
     {
@@ -18,7 +18,7 @@
       "author": "cr545l",
       "latest_version": "1.0.0",
       "runtime": "node",
-      "download_url": "https://github.com/cr545l/hecaton-plugin-codex-dashboard/archive/refs/tags/v1.0.0.zip",
+      "repository_url": "https://github.com/cr545l/hecaton-plugin-codex-dashboard",
       "tags": ["codex", "dashboard", "api"]
     }
   ]
