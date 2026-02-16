@@ -18,6 +18,24 @@
       "runtime": "node",
       "repository_url": "https://github.com/cr545l/hecaton-plugin-codex-dashboard",
       "tags": ["codex", "dashboard", "api"]
+    },
+    {
+      "id": "git-client",
+      "name": "Git Client",
+      "description": "Git client plugin for Hecaton",
+      "author": "cr545l",
+      "runtime": "node",
+      "repository_url": "https://github.com/cr545l/hecaton-plugin-git-client",
+      "tags": ["git", "client"]
+    },
+    {
+      "id": "system-monitor",
+      "name": "System Monitor",
+      "description": "System monitor plugin for Hecaton",
+      "author": "cr545l",
+      "runtime": "node",
+      "repository_url": "https://github.com/cr545l/hecaton-plugin-system-monitor",
+      "tags": ["system", "monitor"]
     }
   ]
 }
